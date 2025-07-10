@@ -1,7 +1,0 @@
-dependencies:
-  - python=3.8
-  - pip
-  - pip:
-    - ..  # d2l
-    - mlc-ai-nightly
-    - -f https://mlc.ai/wheels
